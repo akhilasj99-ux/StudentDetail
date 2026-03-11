@@ -1,7 +1,6 @@
 import java.util.*;
 import java.io.*;
 
-// git test
 // Base class
 class Student {
     String name;
